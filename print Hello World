@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!";
+    std::cout << "Hello World!"; // :: scope resolution operator
     return 0;
 }
 
